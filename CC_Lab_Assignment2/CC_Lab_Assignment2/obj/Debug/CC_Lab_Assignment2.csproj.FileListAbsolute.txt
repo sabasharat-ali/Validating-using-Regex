@@ -1,0 +1,10 @@
+C:\Users\sabas\source\repos\CC_Lab_Assignment2\CC_Lab_Assignment2\bin\Debug\CC_Lab_Assignment2.exe.config
+C:\Users\sabas\source\repos\CC_Lab_Assignment2\CC_Lab_Assignment2\bin\Debug\CC_Lab_Assignment2.exe
+C:\Users\sabas\source\repos\CC_Lab_Assignment2\CC_Lab_Assignment2\bin\Debug\CC_Lab_Assignment2.pdb
+C:\Users\sabas\source\repos\CC_Lab_Assignment2\CC_Lab_Assignment2\obj\Debug\CC_Lab_Assignment2.csprojAssemblyReference.cache
+C:\Users\sabas\source\repos\CC_Lab_Assignment2\CC_Lab_Assignment2\obj\Debug\CC_Lab_Assignment2.Form1.resources
+C:\Users\sabas\source\repos\CC_Lab_Assignment2\CC_Lab_Assignment2\obj\Debug\CC_Lab_Assignment2.Properties.Resources.resources
+C:\Users\sabas\source\repos\CC_Lab_Assignment2\CC_Lab_Assignment2\obj\Debug\CC_Lab_Assignment2.csproj.GenerateResource.cache
+C:\Users\sabas\source\repos\CC_Lab_Assignment2\CC_Lab_Assignment2\obj\Debug\CC_Lab_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\sabas\source\repos\CC_Lab_Assignment2\CC_Lab_Assignment2\obj\Debug\CC_Lab_Assignment2.exe
+C:\Users\sabas\source\repos\CC_Lab_Assignment2\CC_Lab_Assignment2\obj\Debug\CC_Lab_Assignment2.pdb
